@@ -1,0 +1,43 @@
+From eb1f2695a8673afda6d1a1fff7c5d15148ca663d Mon Sep 17 00:00:00 2001
+From: Evgeniy <koroza1995@gmail.com>
+Date: Tue, 23 Nov 2021 19:10:20 +0300
+Subject: [PATCH] point 9
+
+---
+ 0001-point-4.patch | 24 ++++++++++++++++++++++++
+ 1 file changed, 24 insertions(+)
+ create mode 100644 0001-point-4.patch
+
+diff --git a/0001-point-4.patch b/0001-point-4.patch
+new file mode 100644
+index 0000000..289de4b
+--- /dev/null
++++ b/0001-point-4.patch
+@@ -0,0 +1,24 @@
++From 5ccf6a3f18926cc4951bee68924f531ac7847278 Mon Sep 17 00:00:00 2001
++From: Evgeniy <koroza1995@gmail.com>
++Date: Tue, 23 Nov 2021 17:33:49 +0300
++Subject: [PATCH] point 4
++
++---
++ secondFile.txt | 4 ++--
++ 1 file changed, 2 insertions(+), 2 deletions(-)
++
++diff --git a/secondFile.txt b/secondFile.txt
++index 2000a8f..18c9289 100644
++--- a/secondFile.txt
+++++ b/secondFile.txt
++@@ -1,5 +1,5 @@
++-10 /
++-9 .
+++10 /qqq
+++9 .qqq
++ 8 , 
++ 7 m
++ 6 n
++-- 
++2.34.0.windows.1
++
+-- 
+2.34.0.windows.1
+
